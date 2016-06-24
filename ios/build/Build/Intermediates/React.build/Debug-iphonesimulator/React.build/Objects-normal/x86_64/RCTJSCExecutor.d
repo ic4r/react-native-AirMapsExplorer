@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Executors/RCTJSCExecutor.m \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/icarus/src/AirMapsExplorer/node_modules/react-native/React/Modules/RCTSourceCode.h
